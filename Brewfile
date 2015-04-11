@@ -61,7 +61,7 @@ install tree
 install usbmuxd
 install v8
 install vim
-install weechat --with-ruby --with-python --with-perl --with-ruby --with-python --with-perl
+install weechat --with-ruby --with-python --with-perl
 install wget
 install xz
 install zsh
