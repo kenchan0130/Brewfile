@@ -50,11 +50,13 @@ install nkf
 install openssl
 install pcre
 install pkg-config
+install python
 install python3
 install rbenv
 install rbenv-gem-rehash
 install readline
 install reattach-to-user-namespace
+install redis
 install rmtrash
 install ruby-build
 install sqlite
@@ -70,23 +72,24 @@ install xz
 install zsh
 
 # App Store applications
-appstore 4Video Video Converter
-appstore Boom 2
-appstore CheatSheet
-appstore CleanMyDrive
-appstore Evernote
+appstore Alfred
+appstore Gapplin
 appstore GarageBand
+appstore Go2Shell
 appstore iMovie
 appstore iPhoto
 appstore JPEGmini
 appstore Keynote
+appstore Kobito
 appstore Kopypasta
+appstore LimeChat
 appstore LINE
-appstore Memory Scope
-appstore Mousepose
-appstore MPlayerX
+appstore Memory Monitor
+appstore Numbers
+appstore Pages
 appstore Sketch
-appstore SmartVideoConverter
+appstore Slack
 appstore SourceTree
 appstore The Unarchiver
 appstore Xcode
+appstore YoruFukurou
