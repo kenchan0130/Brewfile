@@ -19,6 +19,7 @@ install autoconf
 install boost
 install browser
 install cmake
+install direnv
 install freetype
 install gawk
 install gdbm
@@ -27,6 +28,7 @@ install git
 install gmp
 install gnu-sed
 install gnutls
+install grc
 install highlight
 install imagemagick
 install ios-webkit-debug-proxy
@@ -60,6 +62,7 @@ install redis
 install rmtrash
 install ruby-build
 install sqlite
+install thefuck
 install tig
 install tmux
 install tree
@@ -72,24 +75,23 @@ install xz
 install zsh
 
 # App Store applications
-appstore Alfred
-appstore Gapplin
+appstore 4Video Video Converter
+appstore Boom 2
+appstore CheatSheet
+appstore CleanMyDrive
+appstore Evernote
 appstore GarageBand
-appstore Go2Shell
 appstore iMovie
 appstore iPhoto
 appstore JPEGmini
 appstore Keynote
-appstore Kobito
 appstore Kopypasta
-appstore LimeChat
 appstore LINE
-appstore Memory Monitor
-appstore Numbers
-appstore Pages
+appstore Memory Scope
+appstore Mousepose
+appstore MPlayerX
 appstore Sketch
-appstore Slack
+appstore SmartVideoConverter
 appstore SourceTree
 appstore The Unarchiver
 appstore Xcode
-appstore YoruFukurou
