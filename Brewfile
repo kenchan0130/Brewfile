@@ -17,6 +17,7 @@ install brew-file
 # Other Homebrew packages
 install autoconf
 install automake
+install bcrypt
 install boost
 install browser
 install cairo
@@ -24,7 +25,7 @@ install cmake
 install czmq
 install direnv
 install fontconfig
-install fontforge --with-giflib --with-libspiro --with-giflib --with-libspiro
+install fontforge --with-giflib --with-libspiro
 install freetype
 install gawk
 install gdbm
@@ -36,6 +37,7 @@ install gmp
 install gnu-sed
 install gnu-tar
 install gnutls
+install go
 install gobject-introspection
 install grc
 install harfbuzz
@@ -68,6 +70,7 @@ install pango
 install pcre
 install pixman
 install pkg-config
+install postgresql
 install pstree
 install python
 install python3
@@ -94,24 +97,24 @@ install zeromq
 install zsh
 
 # App Store applications
-appstore Alfred
+appstore 4Video Video Converter
+appstore Boom 2
+appstore CheatSheet
+appstore CleanMyDrive
+appstore Evernote
 appstore Gapplin
 appstore GarageBand
-appstore Go2Shell
 appstore iMovie
 appstore iPhoto
 appstore JPEGmini
 appstore Keynote
-appstore Kobito
 appstore Kopypasta
-appstore LimeChat
 appstore LINE
-appstore Memory Monitor
-appstore Numbers
-appstore Pages
+appstore Memory Scope
+appstore Mousepose
+appstore MPlayerX
 appstore Sketch
-appstore Slack
+appstore SmartVideoConverter
 appstore SourceTree
 appstore The Unarchiver
 appstore Xcode
-appstore YoruFukurou
